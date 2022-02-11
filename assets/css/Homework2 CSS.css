@@ -155,14 +155,21 @@ main img {
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 800;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin:0px;
     /* added margin left and right auto to center links even across page.  */
 }
 .contact-body {
     display:inline;
 
     border: none;
+}
+.row.justify-center { 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background-color: #69afd147;
 }
 footer {
     padding:30px;
