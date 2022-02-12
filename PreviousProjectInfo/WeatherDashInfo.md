@@ -11,4 +11,4 @@ This is a convenient weather generator for your area.
 [Link to the Code Repository](https://github.com/DexterLGriffith/Weather-Dashboard)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/weatherDashImage.png)
+![PWgeneratorImage](../assets/images/projectImages/weatherDashImage.png)

@@ -11,4 +11,4 @@ This is a simple password generator application.
 [Link to the Code Repository](https://github.com/DexterLGriffith/Random-Password-Generator)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/pwGenImage.png)
+![PWgeneratorImage](../assets/images/projectImages/pwGenImage.png)

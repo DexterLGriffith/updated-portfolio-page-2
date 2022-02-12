@@ -11,4 +11,4 @@ This is a simple, easy to use Day Planner.
 [Link to the Code Repository](https://github.com/candracodes/daytripper)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/daytripperImage.png)
+![PWgeneratorImage](../assets/images/projectImages/daytripperImage.png)

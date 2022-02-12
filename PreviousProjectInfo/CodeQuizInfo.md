@@ -11,4 +11,4 @@ This is a simple coding quiz.
 [Link to the Code Repository](https://github.com/DexterLGriffith/Code-Quiz)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/codeQuizImage.png)
+![PWgeneratorImage](../assets/images/projectImages/codeQuizImage.png)

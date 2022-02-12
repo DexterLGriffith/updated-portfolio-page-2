@@ -11,4 +11,4 @@ Easy to use workday planner
 [Link to the Code Repository](https://github.com/DexterLGriffith/Workday-Planner-Project)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/workdayPlannerImage.png) 
+![PWgeneratorImage](../assets/images/projectImages/workdayPlannerImage.png) 

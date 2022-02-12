@@ -11,4 +11,4 @@ The goal of this project was to refractor an existing website.
 [Link to the Code Repository](https://github.com/DexterLGriffith/Homework-1)
 
 ## Preview
-![PWgeneratorImage](/ProjectImages/HoriseonImage.png)
+![PWgeneratorImage](../assets/images/projectImages/HoriseonImage.png)
