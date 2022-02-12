@@ -89,6 +89,7 @@ main img {
     flex-direction: row;
     flex-wrap: wrap;    
     justify-content: space-evenly;
+    margin: 20px;
 }
 .row {
     display: flex;
