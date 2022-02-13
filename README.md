@@ -51,4 +51,11 @@ Dexter Griffith
 4. https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
 5. https://www.w3schools.com/css/css_positioning.asp
 6. https://getbootstrap.com/docs/4.0/components/navbar/
+icons 
+7. https://www.clipartmax.com/max/m2i8H7G6i8i8b1H7/
+8. https://www.pinclipart.com/downpngs/iTxihRh_resume-png-transparent-images-resume-cv-logo-png/
+9. https://github.com/logos
+10. https://brand.linkedin.com/downloads
+11. https://www.freepnglogos.com/images/logo-gmail-9952.html
+
 
