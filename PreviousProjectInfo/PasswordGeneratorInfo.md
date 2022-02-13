@@ -4,7 +4,7 @@
 
 This is a simple password generator application. 
 
-## Horiseon Links
+## Links
 
 [Link to the Website](https://dexterlgriffith.github.io/Random-Password-Generator/)
 

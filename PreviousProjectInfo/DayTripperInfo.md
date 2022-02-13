@@ -4,7 +4,7 @@
 
 This is a simple, easy to use Day Planner.
 
-## Horiseon Links
+## Links
 
 [Link to the Website](https://candracodes.github.io/daytripper/)
 

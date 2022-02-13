@@ -4,7 +4,7 @@
 
 This is a simple coding quiz. 
 
-## Horiseon Links
+## Links
 
 [Link to the Website](https://dexterlgriffith.github.io/Code-Quiz/)
 
